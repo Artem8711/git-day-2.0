@@ -1,4 +1,4 @@
 #Ignoree all hide
-.*
+.vscode
 #No ignorre all files
 !.gitignore
